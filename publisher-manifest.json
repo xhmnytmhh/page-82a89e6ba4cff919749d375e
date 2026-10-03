@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "308aa6fe7563c9863d651949",
+  "owner": "xhmnytmhh",
+  "repo": "page-82a89e6ba4cff919749d375e",
+  "title": "闸总网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "82a89e6ba4cff919749d375e",
+      "a": "闸总网络",
+      "b": "",
+      "entity": "闸总网络",
+      "brand": "闸总网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "73ebd758f2da35d63a14a157d96a204f56542ed200d7a8a4af3a9d818c5714bc",
+      "content": {
+        "keyword1": "闸总网络",
+        "keyword2": "",
+        "primary_entity": "闸总网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "闸总网络是提供机场订阅与VPN梯子服务的官方网站，涵盖基础版至团队版套餐、多端客户端下载及完整配置流程，助力流媒体解锁与游戏网络加速。",
+          "AI_DESCRIPTION": "闸总网络是提供机场订阅与VPN梯子服务的官方网站，涵盖基础版至团队版套餐、多端客户端下载及完整配置流程，助力流媒体解锁与游戏网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#FFF8F4;--card:#FFFFFF;--coral:#E45B4A;--coral-d:#C44536;--ink:#2A1A16;--muted:#6B4E47;--line:#F2D4CC;--soft:#FFF1EC}*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:var(--bg);color:var(--ink);font-size:16px;line-height:1.75;max-width:100%;overflow-x:hidden}a{color:var(--coral-d)}header{background:var(--card);border-bottom:3px solid var(--coral)} .wrap{width:100%;max-width:740px;margin:0 auto;padding:14px 16px 40px} .brand{font-weight:700;color:var(--coral-d);font-size:1.12rem}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:10px;font-size:.92rem}nav a{color:var(--ink);text-decoration:none;border-bottom:2px solid var(--line);padding:2px 0}h1{font-size:1.85rem;line-height:1.3;color:var(--coral-d);margin:8px 0 10px} .lead{color:var(--muted);margin-bottom:18px}h2{font-size:1.3rem;color:var(--coral-d);margin:28px 0 12px;padding-left:10px;border-left:4px solid var(--coral)}h3{font-size:1.06rem;color:#7A3228;margin:14px 0 8px}p,li{margin-bottom:10px;overflow-wrap:anywhere}ul,ol{padding-left:1.25em;margin-bottom:12px} .plan{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:0 0 12px} .plan.featured{background:var(--soft);border:2px solid var(--coral)} .price{font-size:1.38rem;font-weight:700;color:var(--coral-d)} .annual{font-size:.9rem;color:var(--muted)} .badge{display:inline-block;background:var(--coral);color:#fff;font-size:.72rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle} .steps{list-style:none;padding:0;counter-reset:step;margin:8px 0 16px} .steps>li{position:relative;padding:0 0 22px 48px;border-left:2px solid var(--line);margin-left:14px} .steps>li:last-child{border-left-color:transparent;padding-bottom:0} .steps>li::before{counter-increment:step;content:counter(step);position:absolute;left:-15px;top:0;width:28px;height:28px;background:var(--coral);color:#fff;border-radius:50%;font-size:.85rem;font-weight:700;line-height:28px;text-align:center}details{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin:8px 0}summary{font-weight:600}details p{margin:10px 0 4px;color:var(--muted)} .ad{background:var(--soft);border:1px dashed var(--coral);padding:14px;border-radius:8px;margin:12px 0} .friends{display:flex;flex-wrap:wrap;gap:8px 16px}footer{margin-top:32px;padding-top:16px;border-top:1px solid var(--line);font-size:.88rem;color:var(--muted)} .sitemap{display:flex;flex-wrap:wrap;gap:8px 12px;margin:8px 0 14px} .sitemap a{text-decoration:none;color:var(--coral-d)}</style><header><div class=\"wrap\"><p class=\"brand\">闸总网络官方网站</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友情链接</a></nav></div></header><main class=\"wrap\"><h1>闸总网络</h1><p class=\"lead\">闸总网络官网提供机场订阅、VPN 梯子与网络加速服务说明。按纵向步骤完成选套餐、取订阅、装客户端与一键连接，覆盖流媒体解锁、游戏加速与多设备办公。</p><section id=\"intro\"><h2>品牌简介</h2><p>闸总网络是面向个人与小团队的网络加速品牌，核心产品是机场订阅：一份链接即可在主流客户端中更新节点、切换线路。我们把复杂协议收敛成可执行的配置流程，让第一次使用梯子的用户也能在数分钟内完成导入与连通。</p><p>服务侧区分普通节点池与 IPLC 专线。普通线路适合网页、即时通讯和基础流媒体；旗舰版与团队版开放原生流媒体出口和游戏向优化，适合长时间在线与对延迟敏感的场景。设备台数、月度极速流量与工单优先级按套餐公示，本页即闸总网络官方网站的套餐与下载说明入口。</p><p>使用前请确认本地网络与终端系统版本，并遵守所在地法律法规。闸总网络定位于跨境办公、学习资料访问与合规内容加速，不提供任何绕过监管或未授权访问的指导。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容库</h3><p>基础版可解锁常见视频与音乐平台的基础线路；旗舰版与团队版提供全节点原生流媒体出口，减少片源地区不匹配导致的加载失败。建议播放时固定同一解锁节点，避免会话中途切换。</p><h3>对战与主机游戏</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合需要更稳延迟的对战与更新下载。实际体验仍受本地宽带、运营商路由和游戏服务器位置影响，可在客户端中对比普通线路与专线的延迟后再锁定。</p><h3>远程办公与资料库</h3><p>会议软件、代码托管与文献数据库对会话稳定性要求更高。建议为办公域名配置分流规则，仅将跨境目标走代理，国内站点直连，以降低多余绕行。</p><h3>家庭与工作室多设备</h3><p>同一订阅可在电脑、手机与路由器间使用。基础版支持 3 台同时在线，旗舰版 5 台，团队版 20 台并支持企业定制路由，适合共享节点但不共享登录凭证的小团队。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>闸总网络提供按月开通、按年更优惠的三档套餐。流量均为当月极速额度，周期结束按套餐重置。以下价格与权益以官网公示为准。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p>适合轻度浏览、即时通讯与偶尔观看视频的个人用户。可先用基础版完成客户端导入，确认设备兼容后再升级。</p></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>日常追剧、游戏加速与远程桌面的主力档。原生解锁与专线同开，配置流程与基础版完全一致，只需在客户端更新一次订阅。</p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p>面向工作室与项目组。可将办公网段、设计素材站与会议域名做成定制分流，由客户经理协助核对设备清单与并发策略。</p></article></section><section id=\"setup\"><h2>配置流程</h2><p>闸总网络强调可跟随的纵向步骤。请按顺序操作，不要跳过「更新订阅」再手动填写节点，以免协议参数过期。</p><ol class=\"steps\"><li><h3>选择套餐并完成开通</h3><p>在官网选定基础版、旗舰版或团队版，确认设备台数与流量是否够用。年付可降低月均成本。开通成功后进入用户中心，不要关闭页面。</p></li><li><h3>复制机场订阅链接</h3><p>在用户中心找到订阅地址，通常为一串 HTTPS 链接。整段复制，不要换行或漏掉令牌参数。该链接用于客户端自动拉取节点，请勿公开发布。</p></li><li><h3>下载并安装客户端</h3><p>根据系统到应用商店或项目官方渠道获取客户端，详见下方「客户端下载」。安装完成后先不要急于搜公共节点，回到闸总网络订阅导入。</p></li><li><h3>导入订阅并更新节点</h3><p>打开客户端的订阅或配置页面，粘贴链接，执行更新。成功后应看到分组节点（普通线路、流媒体、IPLC 等）。若列表为空，检查系统时间、剪贴板完整性与网络是否允许访问订阅域名。</p></li><li><h3>选择节点并连接</h3><p>日常网页可选普通线路；看视频选带解锁标识的节点并保持会话；游戏与远程桌面优先 IPLC。连接后用浏览器访问需要加速的目标，确认规则已生效。</p></li><li><h3>配置分流与日常维护</h3><p>建议开启规则分流：国内直连、跨境走代理。每周在客户端点一次更新订阅。流量将尽时升级套餐或等待下月重置，避免在高峰期反复重连。</p></li></ol></section><section id=\"download\"><h2>客户端下载</h2><p>闸总网络官方下载指引如下：本站提供订阅与配置说明，安装包请从各系统官方商店或客户端项目主页获取，以避免来路不明的篡改版本。导入时统一使用用户中心的机场订阅链接。</p><h3>Windows</h3><p>推荐 Clash Verge 或 v2rayN。安装后选择「从 URL 导入」，粘贴闸总网络订阅，更新后再启动系统代理。若公司电脑限制 TAP/TUN，可改用系统代理模式。</p><h3>macOS</h3><p>可使用 ClashX Meta 或 Surge。从 Mac App Store 或项目发布页下载。开启「设置为系统代理」后更新配置。菜单栏可快速切换节点分组。</p><h3>iOS 与 iPadOS</h3><p>常用 Shadowrocket、Stash 或 Quantumult X，于 App Store 搜索官方名称购买或下载。添加订阅时粘贴完整 URL，打开允许 VPN 配置的系统授权即可。</p><h3>Android</h3><p>推荐 Clash Meta for Android。通过 F-Droid 或项目发布页安装。导入订阅后选择规则模式，按需开启分应用代理，避免银行类 App 被全局接管。</p><h3>路由器与网关</h3><p>已刷 OpenWrt 等固件的设备可使用 OpenClash 或同类订阅转换。将闸总网络订阅填入，限定客人 Wi-Fi 或特定网段走代理。团队版可配合定制路由减少全屋流量浪费。</p><p><a href=\"#setup\">返回配置流程</a> 按步骤导入。官网不托管过期安装包，版本以客户端项目当前稳定版为准。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>订阅导入要点</h3><p>只使用闸总网络用户中心生成的链接。第三方转换站点可能缓存旧节点或泄露令牌。导入后看到节点数量与套餐描述大致相符即成功。旗舰版应能看到 IPLC 与原生流媒体分组。</p><h3>节点选择建议</h3><p>同一应用尽量固定节点。流媒体中途切换容易触发重新校验；游戏则观察丢包与抖动，不必只看最低延迟数字。若某节点连续失败，更新订阅后再试，不必反复手动填写服务器字段。</p><h3>流量与设备</h3><p>同时在线台数按套餐限制。路由器科学上网会占用一台额度。极速流量耗尽后可能降速或需要升级，请在客户端流量统计与官网用量中对照。团队版适合把额度集中在工作时段。</p><h3>工单与售后</h3><p>基础版走常规工单队列；旗舰版 7x24 优先；团队版配备专属客户经理。提交时请说明系统、客户端名称与版本、订阅是否已更新，以及是流媒体、游戏还是网页场景，便于对症切换线路策略。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>闸总网络是机场订阅还是传统 VPN？</summary><p>闸总网络以机场订阅为主，一份链接可在 Clash、Shadowrocket、v2rayN 等多客户端使用，节点自动更新。它承担 VPN 梯子与网络加速的作用，但配置方式更接近订阅制机场，而不是单一 App 内置线路。按本页配置流程导入即可。</p></details><details><summary>如何从官网完成第一次连接？</summary><p>顺序是：开通套餐、复制订阅、安装对应系统客户端、粘贴链接并更新、选择节点连接。不要跳过更新直接手填旧参数。详细纵向步骤见「配置流程」，客户端来源见「客户端下载」。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>个人轻度使用选基础版（100GB、3 台、基础流媒体）。需要原生库与游戏专线选旗舰版（300GB、5 台、IPLC 与优先工单）。工作室或多人共用选团队版（1000GB、20 台、VIP 节点与定制路由）。均可年付降低月均价。</p></details><details><summary>官方下载安装包在哪里？安全吗？</summary><p>闸总网络官网提供订阅与图文级操作说明，不强制托管客户端安装包，以免版本滞后。请从 App Store、Google 相关商店或客户端项目主页获取，再用本站订阅导入。避免来历不明的「一键包」索要额外权限。</p></details><details><summary>连接后无法播放或游戏仍然卡顿怎么办？</summary><p>先更新订阅，再换到对应分组：播放走原生解锁节点并保持会话；游戏走 IPLC。同时检查是否全局代理把下载与语音也绕远了，改为规则分流。本地 Wi-Fi 干扰、高峰拥塞也会影响观感，可对比不同时段。</p></details><details><summary>流量用完或设备超员会怎样？</summary><p>当月极速额度用尽后需等待重置或升级套餐。超过同时在线台数时，新设备可能无法握手。路由器占用一台额度。团队版适合把设备清单交给客户经理做并发规划。</p></details><details><summary>是否可以在多台电脑和手机共用一个订阅？</summary><p>可以，只要不超过套餐允许的同时在线数。建议每台设备独立导入同一订阅链接，而不是导出配置文件来回拷贝，这样节点更新更一致。不要把订阅链接发到公开群组。</p></details></section><section id=\"ads\"><h2>广告</h2><div class=\"ad\"><p>展示位：闸总网络官网预留信息栏，用于客户端教程、分流规则说明与合规网络加速知识，不使用弹窗或自动跳转。合作展示请通过旗舰或团队工单沟通档期。</p><p>相关阅读建议：系统代理与 TUN 模式区别、流媒体解锁节点的会话保持、以及路由器订阅的设备计数方式。上述内容均可配合本页配置流程使用。</p></div></section><section id=\"links\"><h2>友情链接</h2><p>以下为相关文档与资讯入口，便于对照客户端操作，链接指向页面锚点便于离线阅读结构。</p><p class=\"friends\"><a href=\"#download\">Clash 系客户端说明</a><a href=\"#download\">Shadowrocket 导入指引</a><a href=\"#setup\">机场订阅更新步骤</a><a href=\"#guide\">IPLC 与分流说明</a><a href=\"#faq\">网络加速常见问题</a><a href=\"#plans\">套餐对照</a></p></section><footer><p>网站地图</p><p class=\"sitemap\"><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#setup\">配置流程</a><a href=\"#download\">官方下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">FAQ</a><a href=\"#ads\">广告</a><a href=\"#links\">友链</a></p><p>闸总网络官方网站 · 机场订阅与 VPN 网络加速说明页。请合法使用网络服务。</p><p>© 2025 闸总网络</p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "1449deb0712220c7058c91a974cdaa1505fbe5034f3498482d77340e96d7349f",
+          "seo": {
+            "title": "闸总网络官网 - 机场订阅与VPN梯子网络加速器客户端下载",
+            "keywords": "闸总网络,闸总网络官网,闸总网络机场,闸总网络VPN,梯子,网络加速器,机场订阅,客户端下载,IPLC加速",
+            "description": "闸总网络是提供机场订阅与VPN梯子服务的官方网站，涵盖基础版至团队版套餐、多端客户端下载及完整配置流程，助力流媒体解锁与游戏网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aibycoi.cn",
+    "host": "p-8a8f93acf3.aibycoi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "aibycoi.cn",
+      "url": "https://aibycoi.cn/",
+      "label": "爱探索",
+      "apex": "aibycoi.cn",
+      "kind": null,
+      "identity": "fkugcv/page-5bc99e96a70c6fff0502aef8"
+    },
+    {
+      "host": "eocedhw.cn",
+      "url": "https://eocedhw.cn/",
+      "label": "闸总网络",
+      "apex": "eocedhw.cn",
+      "kind": null,
+      "identity": "resxpnwwj/page-5732f62f5e4226ec2abe7033"
+    },
+    {
+      "host": "laomaoyungw.com",
+      "url": "https://laomaoyungw.com/",
+      "label": "闸总网络",
+      "apex": "laomaoyungw.com",
+      "kind": null,
+      "identity": "thhmmec/page-a33cc408d1320b5e4e825446"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8743c4417754118bb3e488881f4069331884fd0019843af6c07bd0db0a13a054",
+    "sitemap.xml": "09fbd4efeb545ef88515f69453d0eca3736b0814d0538a7b37d518c42ab41f00",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e4f537eb514f0073382228024c5516b6d0e0d78531be3e2ef0ca1cd3836bbca5",
+    "robots.txt": "6b214f06888ddc6f5204e82fbc075d7df9493663f67c78c40d55e4ce107ce20e",
+    "d3bc572eb6364da6675d78ecd306dbda.txt": "bd4f93402e234954865dea48ad6085fe1b98a2c3ecce5a84c62154274eaae1a3"
+  },
+  "revision": "7fd503fde944148fcb58884655c6a3b96232c52360e4860137efd13bf1b762bd"
+}
